@@ -1,3 +1,13 @@
 body {
     background: rgb(203, 203, 203);
   }
+
+
+  #img_me{
+   margin-top: 20%;
+   margin: 0%;
+  }
+
+  #div_img{
+    margin: 0%;
+  }
